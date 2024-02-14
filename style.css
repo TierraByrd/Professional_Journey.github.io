@@ -1,0 +1,28 @@
+body {
+background-color: pink;
+border: 5px dotted white;
+padding-left: 15px;
+}
+
+h1 {
+color: gray;
+font-family: Georgia;
+}
+
+h2 {
+color: white;
+}
+
+h3 {
+color: midnight;
+}
+
+li {
+color: purple;
+}
+
+.footer {
+font-size: 20px;
+color: black;
+}
+
